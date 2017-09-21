@@ -1,10 +1,10 @@
 # PKU-introToAlgorithmAndC
 Some problems from Coursera
-<h1>计算导论与C语言基础 </h1>
-<h1>Ge Li 李戈, Ph.D.</h1>
-<h1>Peking University </h1>
-<h2>course 1 of 程序设计与算法 
-Peking University speciality</h2>
+<h1>计算导论与C语言基础<p></p>
+Ge Li 李戈, Ph.D. 
+Peking University<p></p>
+course 1 of 程序设计与算法 Peking University speciality
+</h1>
 
 WEEK 1 <br>
 欢迎加入《计算导论与C语言基础》！<br>
